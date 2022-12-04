@@ -4,7 +4,7 @@ Work smarter not harder !
 ## Etapes d'instalation
 
  - Télécharger le répo
- - Rendez vous sur [chrome://extensions/](chrome://extensions/)
+ - Entrez chrome://extensions/ dans votre navigateur
     - Activer le `Mode développeur` en haut à droite de votre fenêtre chrome
     - Cliquez sur `Charger l'extension non empaquetée`, puis séléctionner le fichier que vous avez téléchargé.
 - Ajoutez à chrome l'extension [LanguageTool](https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji?hl=fr) 
