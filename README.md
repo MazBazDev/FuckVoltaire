@@ -9,7 +9,7 @@ Work smarter not harder !
     - Cliquez sur `Charger l'extension non empaquetée`, puis séléctionner le fichier que vous avez téléchargé.
 - Ajoutez à chrome l'extension [LanguageTool](https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji?hl=fr) 
 
-### Optionel
+### Optionnel
 Vous pouvez épingler l'extension pour simplifier l'utilisation !
 
 ![Ping](https://media.discordapp.net/attachments/1010611126125465670/1049014909096165396/image.png)
