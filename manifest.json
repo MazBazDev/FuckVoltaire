@@ -1,0 +1,17 @@
+{
+    "name": "FuckVoltaire",
+    "action": {},
+    "manifest_version": 3,
+    "version": "0.1",
+    "description": "Voltaire à la poubelle !",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "icons": {
+      "128": "icon.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
