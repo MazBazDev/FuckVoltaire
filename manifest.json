@@ -6,12 +6,28 @@
     "description": "Voltaire à la poubelle !",
     "permissions": [
       "activeTab",
+      "scripting",
+      "storage",
+      "tabs",
       "scripting"
     ],
-    "icons": {
-      "128": "icon.png"
-    },
+    "host_permissions": [
+      "https://api.openai.com/"
+    ],
+    "action": {
+      "default_popup": "index.html"
+    }, "options_ui": {
+      "page": "settings.html",
+      "open_in_tab": true
+    }, 
     "background": {
-      "service_worker": "background.js"
+      "service_worker": "/assets/js/background.js"
+    },
+    "content_scripts": [{
+      "matches": ["<all_urls>"],
+      "js": ["/assets/js/content.js"]
+    }],
+    "icons": {
+      "128": "/assets/img/icon.png"
     }
   }
